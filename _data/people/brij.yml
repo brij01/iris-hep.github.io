@@ -1,0 +1,19 @@
+active: true
+focus-area:
+  - CMS
+  - LHCb
+  - Hetrogenious Architectures
+  - Triggers, HLT, GPUs
+  - Infrastructure facilities
+  - Software and computing tools
+  - Monitoring and Analytics
+  - Storage and Data Management
+
+institution: Tata Institute of Fundamental Research
+name: Brij Kishor Jashal
+photo: "/assets/images/team/brij.jpeg"
+shortname: brij
+title: Staff Scientist 
+website: http://iris-hep.org
+presentations:
+
